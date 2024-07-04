@@ -1,2 +1,2 @@
 # gi
-this is our first reposotiory
+this is our first reposotiory.
